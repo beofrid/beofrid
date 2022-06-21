@@ -1,4 +1,4 @@
-### I want to PROGRAM
+### Looking for development experiences
 #### Curious since I was a child, I've always liked to create and understand how things around me work.
 
 - 🔭 I’m currently studying Systems Development at Senac TECH POA;
