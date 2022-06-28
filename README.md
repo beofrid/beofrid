@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with div centralization in CSS (JK 😂)
 <hr>
 <h4> 📫 How to reach me: <a href="mailto:beofrid@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/beofrid"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/beofrid" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a></h4>
 <hr>
 
