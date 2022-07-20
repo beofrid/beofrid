@@ -7,7 +7,6 @@
 <br/> 
 
 ### Some projects:  
-</br>
 
 ## Javascript Clock
 
